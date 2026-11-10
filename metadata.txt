@@ -1,0 +1,15 @@
+[general]
+name=EEU GIS to DIgSILENT PowerFactory
+qgisMinimumVersion=3.28
+description=Exports EEU distribution GIS layers into PowerFactory preparation tables with QA reports.
+about=QGIS plugin prototype for exporting substation, MV overhead and underground lines, transformers, switches, poles and loads. Creates CSV staging tables, a manifest and QA report. It does not yet create a native DGS file or automatically build a solved PowerFactory model.
+version=0.1.1
+author=EEU GIS Tools
+email=
+homepage=https://github.com/kenbon231/EEU-GIS-to-PowerFactory
+tracker=https://github.com/kenbon231/EEU-GIS-to-PowerFactory/issues
+repository=https://github.com/kenbon231/EEU-GIS-to-PowerFactory
+category=Vector
+icon=
+experimental=True
+deprecated=False
